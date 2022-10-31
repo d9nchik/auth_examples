@@ -104,4 +104,4 @@ dist
 # TernJS port file
 .tern-port
 
-forms_auth/sessions.json
+sessions.json
