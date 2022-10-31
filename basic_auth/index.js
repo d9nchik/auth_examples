@@ -24,7 +24,7 @@ app.use((req, res, next) => {
     const password = decodedAuthorizationHeader.split(':')[1];
     console.log('Login/Password', login, password);
 
-    if (login == 'DateArt' && password == '2408') {
+    if (login == 'D9nich' && password == 'SuperStudent') {
         req.login = login;
         return next();
     }

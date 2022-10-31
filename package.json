@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/d9nchik/auth_examples/issues"
   },
-  "homepage": "https://github.com/d9nchik/auth_examples#readme"
+  "homepage": "https://github.com/d9nchik/auth_examples#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
